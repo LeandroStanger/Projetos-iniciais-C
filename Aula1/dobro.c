@@ -1,5 +1,4 @@
 // Bibliteca para endrada e saida
-
 #include <stdio.h>
 int main()
 {
